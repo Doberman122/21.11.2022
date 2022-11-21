@@ -1,0 +1,15 @@
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\bin\Debug\net6.0\walk1.exe
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\bin\Debug\net6.0\walk1.deps.json
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\bin\Debug\net6.0\walk1.runtimeconfig.json
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\bin\Debug\net6.0\walk1.dll
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\bin\Debug\net6.0\walk1.pdb
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\obj\Debug\net6.0\walk1.csproj.AssemblyReference.cache
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\obj\Debug\net6.0\walk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\obj\Debug\net6.0\walk1.AssemblyInfoInputs.cache
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\obj\Debug\net6.0\walk1.AssemblyInfo.cs
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\obj\Debug\net6.0\walk1.csproj.CoreCompileInputs.cache
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\obj\Debug\net6.0\walk1.dll
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\obj\Debug\net6.0\refint\walk1.dll
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\obj\Debug\net6.0\walk1.pdb
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\obj\Debug\net6.0\walk1.genruntimeconfig.cache
+C:\Users\rysla\OneDrive\Рабочий стол\21.11.2022\walk1\obj\Debug\net6.0\ref\walk1.dll
